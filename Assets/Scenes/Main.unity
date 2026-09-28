@@ -396,6 +396,7 @@ GameObject:
   - component: {fileID: 536902306}
   - component: {fileID: 536902305}
   - component: {fileID: 536902304}
+  - component: {fileID: 536902309}
   m_Layer: 0
   m_Name: Item (6)
   m_TagString: Item
@@ -517,6 +518,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &536902309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 536902303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41dadf5367ff2a47ab40523e82f8972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RotateAnimator
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -579,6 +592,7 @@ GameObject:
   - component: {fileID: 1031458402}
   - component: {fileID: 1031458401}
   - component: {fileID: 1031458400}
+  - component: {fileID: 1031458405}
   m_Layer: 0
   m_Name: Item (4)
   m_TagString: Item
@@ -700,6 +714,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1031458405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031458399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41dadf5367ff2a47ab40523e82f8972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RotateAnimator
 --- !u!1 &1099465306
 GameObject:
   m_ObjectHideFlags: 0
@@ -889,6 +915,7 @@ GameObject:
   - component: {fileID: 1138452267}
   - component: {fileID: 1138452266}
   - component: {fileID: 1138452265}
+  - component: {fileID: 1138452270}
   m_Layer: 0
   m_Name: Item (2)
   m_TagString: Item
@@ -1010,6 +1037,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1138452270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138452264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41dadf5367ff2a47ab40523e82f8972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RotateAnimator
 --- !u!1 &1303516991
 GameObject:
   m_ObjectHideFlags: 0
@@ -1023,6 +1062,7 @@ GameObject:
   - component: {fileID: 1303516994}
   - component: {fileID: 1303516993}
   - component: {fileID: 1303516992}
+  - component: {fileID: 1303516997}
   m_Layer: 0
   m_Name: Item (7)
   m_TagString: Item
@@ -1144,6 +1184,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1303516997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303516991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41dadf5367ff2a47ab40523e82f8972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RotateAnimator
 --- !u!1 &1383878141
 GameObject:
   m_ObjectHideFlags: 0
@@ -1270,6 +1322,7 @@ GameObject:
   - component: {fileID: 1621900579}
   - component: {fileID: 1621900578}
   - component: {fileID: 1621900577}
+  - component: {fileID: 1621900582}
   m_Layer: 0
   m_Name: Item (3)
   m_TagString: Item
@@ -1391,6 +1444,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1621900582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1621900576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41dadf5367ff2a47ab40523e82f8972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RotateAnimator
 --- !u!1 &1788365224
 GameObject:
   m_ObjectHideFlags: 0
@@ -1404,6 +1469,7 @@ GameObject:
   - component: {fileID: 1788365227}
   - component: {fileID: 1788365226}
   - component: {fileID: 1788365225}
+  - component: {fileID: 1788365230}
   m_Layer: 0
   m_Name: Item (5)
   m_TagString: Item
@@ -1525,6 +1591,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1788365230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788365224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41dadf5367ff2a47ab40523e82f8972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RotateAnimator
 --- !u!1 &1797694450
 GameObject:
   m_ObjectHideFlags: 0
@@ -1538,6 +1616,7 @@ GameObject:
   - component: {fileID: 1797694453}
   - component: {fileID: 1797694452}
   - component: {fileID: 1797694451}
+  - component: {fileID: 1797694456}
   m_Layer: 0
   m_Name: Item (1)
   m_TagString: Item
@@ -1659,6 +1738,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1797694456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797694450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41dadf5367ff2a47ab40523e82f8972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RotateAnimator
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
